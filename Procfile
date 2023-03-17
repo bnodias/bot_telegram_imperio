@@ -1,2 +1,2 @@
-worker: python bot_telegram_2.py
+worker: python bot_telegram.py
 
